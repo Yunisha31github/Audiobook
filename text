@@ -1,0 +1,4 @@
+
+
+element.classList.remove('fa-pause-circle');
+        element.classList.add('fa-play-circle');
